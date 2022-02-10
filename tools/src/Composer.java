@@ -14,8 +14,8 @@ public class Composer {
 
         String combineBlogPath = Path.of(projectPath, "BLOG.md").toString();
         String combinePrivatePath = Path.of(projectPath, "PRIVATE.md").toString();
-        combineMultiFilesToOneFile(privatePath, combinePrivatePath);
-//        combineMultiFilesToOneFile(blogPath, combineBlogPath);
+//        combineMultiFilesToOneFile(privatePath, combinePrivatePath);
+        combineMultiFilesToOneFile(blogPath, combineBlogPath);
     }
 
     private static String getAbsolutePathOfProject() {
