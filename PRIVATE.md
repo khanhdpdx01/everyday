@@ -31,3 +31,32 @@ Bên trên là những điều mà tôi mong muốn thực hiện trong năm t�
 
 **Cố lên Khanh ơi 💪💪💪**
 
+# 01.21.2023 - Recap 2022
+
+Lại một năm nữa sắp trôi qua. Trong những giờ phút giây thừa này, tôi lại ngồi lại đây nhìn lại một qua đã làm được những gì và chưa làm được những gì. 
+
+Hãy xem lại và đánh giá những mục tiêu đã đề ra năm trước: 
+
+1. Kiếm được một công việc thực tập trong một môi trường làm việc tốt.  
+2. Tiếp tục trao dồi khả năng ngoại ngữ đặc biệt là giao tiếp Tiếng Anh. 
+3. Chăm chỉ rèn luyện thể thao, quyết tâm giảm cân xuống dưới 70kg.
+4. Tiếp tục duy trì phong độ học tập của mình.
+5. Giảm thời gian la cà trên mạng xã hội.
+6. Mở rộng hơn các mối quan hệ xã hội bên ngoài.
+
+Trong số những điều ở trên, tôi chỉ thực hiện được duy nhất điều đầu tiên. Thật vui khi tôi đã tìm được một nơi thật tập sau khi từ chối một offer thực tập Nodejs vào tháng 2. Tôi bắt đầu thực tập vào ngày 17/05/2023. Ở đây tôi được giao việc tìm hiểu công nghệ Blockchain và ứng dụng vào code usecase Quản lý văn bằng của nền tảng BaaS. Những ngày tháng ở đây, tôi học được nhiều kiến thức mới, được nhận nhiều tình cảm, sự quan tâm của các anh chị. Thật tiếc khi tôi đã không tận dụng tốt sự hỗ trợ của anh mentor. Sau 8 tháng thực tập ở Viettel Solution, tôi chính thức kết thúc hành trình của mình ở đây vào ngày 13/01/2023.
+
+Ngoài việc thực tập, tôi còn có một số hoạt động đáng nhớ. Đầu tiên là tham gia trại IT vào giữa tháng 5 tại Huế - một đêm quẩy nhạc hết mình dưới mưa. Tiếp theo là team building với công ty vào đầu tháng 7 tại Hội An - một đêm quấy hết mình với các anh chị trong công ty (lần đầu tiên uống 10 lon bia mà vẫn còn tỉnh táo).
+
+Haizz, đặt mục tiêu là vậy nhưng thực hiện nó là một chuyện khác. Trong năm tới tôi sẽ cố gắng hoàn thành những mục tiêu mà tôi đã chưa hoàn thành trong năm trước và đặc biệt mục tiêu lớn nhất trong năm tới là bảo vệ đồ án tốt nghiệp. Năm 2022 theo tôi đánh giá là một năm chưa được thành công đối với bản thân tôi cho lắm. Vì vậy, tôi xin hứa với bản thân sẽ phấn đấu hơn trong nữa trong năm 2023. Và tôi sẽ liệt kê những mục tiêu sẽ thực hiện trong năm 2023:
+1. Bảo vệ đồ án tốt nghiệp và ra trường với tấm bằng giỏi trở lên.
+2. Lấy bằng TOEIC quốc tế với số điểm trên 600.
+3. Rèn luyện thể thao nhiều hơn và giảm được ít nhất 5kg.
+4. Giảm thời gian giành cho những việc vô bổ đặc biệt là lướt mạng xã hội.
+5. Trao dồi khả năng ứng xử, thuyế t trình trước đám đông.
+6. Đi du lịch đến một tỉnh thành mà trước đây chưa từng đặt chân đến.
+
+Trong số những việc tôi kể ra bên trên thì mục tiêu tôi chắc chắn phải làm được đó là mục 1 và 2. Tôi hy vọng những điều may mắn sẽ đến với tôi và gia đình tôi trong năm tới.
+
+**Cố lên Khanh ơi 💪💪💪**
+
